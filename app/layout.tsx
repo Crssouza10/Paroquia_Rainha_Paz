@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Conviva | Gestão Pariquial & Controle Financeiro",
+  title: "Conviva | Gestão Paroquial & Controle Financeiro",
   description:
     "Plataforma de alta precisão para controle e conciliação de convites numerados (0001 a 1000) e gestão financeira por comunidade.",
   icons: {

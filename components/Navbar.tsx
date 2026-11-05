@@ -44,7 +44,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
             <div className="flex items-center gap-2">
               <h1 className="text-sm sm:text-base md:text-lg font-semibold tracking-tight text-slate-900 dark:text-white whitespace-nowrap">
-                Gestão Pariquial
+                Gestão Paroquial
               </h1>
               <span className="hidden md:inline-flex items-center px-2 py-0.5 rounded-full text-[11px] font-medium bg-slate-100 dark:bg-slate-900 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-800">
                 Almoço Comunitário
